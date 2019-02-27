@@ -1,0 +1,25 @@
+{
+  "name": "e-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyanxia/e-book.git"
+  },
+  "author": "guoyanxia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoyanxia/e-book/issues"
+  },
+  "homepage": "https://github.com/guoyanxia/e-book#readme",
+  "devDependencies": {
+            "gitbook-cli": "^2.3.2"
+                          
+                
+  }
+
+}
